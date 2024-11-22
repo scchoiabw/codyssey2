@@ -1,1 +1,3 @@
-wwww
+# 리스트 순회
+for i in [1, 2, 3, 4, 5]:
+    print(i)
